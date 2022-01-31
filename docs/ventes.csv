@@ -1,0 +1,160 @@
+ORDERNUMBER;QUANTITYORDERED;PRICEEACH;SALES;STATUS;ORDERYEAR;CUSTOMERNAME;CITY;COUNTRY
+10107;30;95.7;2871;Shipped;2003;Land of Toys Inc.;NYC;USA
+10121;34;81.35;2765.9;Shipped;2003;Reims Collectables;Reims;France
+10134;41;94.74;3884.34;Shipped;2003;Lyon Souveniers;Paris;France
+10145;45;83.26;3746.7;Shipped;2003;Toys4GrownUps.com;Pasadena;USA
+10159;49;100;5205.27;Shipped;2003;Corporate Gift Ideas Co.;San Francisco;USA
+10168;36;96.66;3479.76;Shipped;2003;Technics Stores Inc.;Burlingame;USA
+10180;29;86.13;2497.77;Shipped;2003;Daedalus Designs Imports;Lille;France
+10188;48;100;5512.32;Shipped;2003;Herkku Gifts;Bergen;Norway
+10201;22;98.57;2168.54;Shipped;2003;Mini Wheels Co.;San Francisco;USA
+10211;41;100;4708.44;Shipped;2004;Auto Canal Petit;Paris;France
+10223;37;100;3965.66;Shipped;2004;Australian Collectors, Co.;Melbourne;Australia
+10237;23;100;2333.12;Shipped;2004;Vitachrome Inc.;NYC;USA
+10251;28;100;3188.64;Shipped;2004;Tekni Collectables Inc.;Newark;USA
+10263;34;100;3676.76;Shipped;2004;Gift Depot Inc.;Bridgewater;USA
+10275;45;92.83;4177.35;Shipped;2004;La Rochelle Gifts;Nantes;France
+10285;36;100;4099.68;Shipped;2004;Marta's Replicas Co.;Cambridge;USA
+10299;23;100;2597.39;Shipped;2004;Toys of Finland, Co.;Helsinki;Finland
+10309;41;100;4394.38;Shipped;2004;Baane Mini Imports;Stavern;Norway
+10318;46;94.74;4358.04;Shipped;2004;Diecast Classics Inc.;Allentown;USA
+10329;42;100;4396.14;Shipped;2004;Land of Toys Inc.;NYC;USA
+10341;41;100;7737.93;Shipped;2004;Salzburg Collectables;Salzburg;Austria
+10361;20;72.55;1451;Shipped;2004;Souveniers And Things Co.;Chatswood;Australia
+10375;21;34.91;733.11;Shipped;2005;La Rochelle Gifts;Nantes;France
+10388;42;76.36;3207.12;Shipped;2005;FunGiftIdeas.com;New Bedford;USA
+10403;24;100;2434.56;Shipped;2005;UK Collectables, Ltd.;Liverpool;UK
+10417;66;100;7516.08;Disputed;2005;Euro Shopping Channel;Madrid;Spain
+10103;26;100;5404.62;Shipped;2003;Baane Mini Imports;Stavern;Norway
+10112;29;100;7209.11;Shipped;2003;Volvo Model Replicas, Co;Lule;Sweden
+10126;38;100;7329.06;Shipped;2003;Corrida Auto Replicas, Ltd;Madrid;Spain
+10140;37;100;7374.1;Shipped;2003;Technics Stores Inc.;Burlingame;USA
+10150;45;100;10993.5;Shipped;2003;Dragon Souveniers, Ltd.;Singapore;Singapore
+10163;21;100;4860.24;Shipped;2003;Classic Legends Inc.;NYC;USA
+10174;34;100;8014.82;Shipped;2003;Australian Gift Network, Co;South Brisbane;Australia
+10183;23;100;5372.57;Shipped;2003;Classic Gift Ideas, Inc;Philadelphia;USA
+10194;42;100;7290.36;Shipped;2003;Saveley & Henriot, Co.;Lyon;France
+10206;47;100;9064.89;Shipped;2003;Canadian Gift Exchange Network;Vancouver;Canada
+10215;35;100;6075.3;Shipped;2004;West Coast Collectables Co.;Burbank;USA
+10228;29;100;6463.23;Shipped;2004;Cambridge Collectables Co.;Cambridge;USA
+10245;34;100;6120.34;Shipped;2004;Super Scale Inc.;New Haven;USA
+10258;32;100;7680.64;Shipped;2004;Tokyo Collectables, Ltd;Minato-ku;Japan
+10270;21;100;4905.39;Shipped;2004;Souveniers And Things Co.;Chatswood;Australia
+10280;34;100;8014.82;Shipped;2004;Amica Models & Co.;Torino;Italy
+10291;37;100;7136.19;Shipped;2004;Scandinavian Gift Ideas;Boras;Sweden
+10304;47;100;10172.7;Shipped;2004;Auto Assoc. & Cie.;Versailles;France
+10312;48;100;11623.7;Shipped;2004;Mini Gifts Distributors Ltd.;San Rafael;USA
+10322;40;100;6000.4;Shipped;2004;Online Diecast Creations Co.;Nashua;USA
+10333;26;100;3003;Shipped;2004;Mini Wheels Co.;San Francisco;USA
+10347;30;100;3944.7;Shipped;2004;Australian Collectors, Co.;Melbourne;Australia
+10357;32;100;5691.84;Shipped;2004;Mini Gifts Distributors Ltd.;San Rafael;USA
+10369;41;100;4514.92;Shipped;2005;Collectables For Less Inc.;Brickhaven;USA
+10381;36;100;8254.8;Shipped;2005;Corporate Gift Ideas Co.;San Francisco;USA
+10391;24;100;2416.56;Shipped;2005;Anna's Decorations, Ltd;North Sydney;Australia
+10411;23;100;4140.23;Shipped;2005;Quebec Home Shopping Network;Montreal;Canada
+10424;50;100;12001;In Process;2005;Euro Shopping Channel;Madrid;Spain
+10107;39;99.91;3896.49;Shipped;2003;Land of Toys Inc.;NYC;USA
+10120;29;96.34;2793.86;Shipped;2003;Australian Collectors, Co.;Melbourne;Australia
+10134;27;100;3307.77;Shipped;2003;Lyon Souveniers;Paris;France
+10145;37;100;5192.95;Shipped;2003;Toys4GrownUps.com;Pasadena;USA
+10159;37;100;5016.83;Shipped;2003;Corporate Gift Ideas Co.;San Francisco;USA
+10168;27;100;3660.93;Shipped;2003;Technics Stores Inc.;Burlingame;USA
+10180;42;100;4695.6;Shipped;2003;Daedalus Designs Imports;Lille;France
+10188;38;96.34;3660.92;Shipped;2003;Herkku Gifts;Bergen;Norway
+10201;24;100;3025.92;Shipped;2003;Mini Wheels Co.;San Francisco;USA
+10210;23;100;3009.09;Shipped;2004;Osaka Souveniers Co.;Osaka;Japan
+10223;47;100;5422.39;Shipped;2004;Australian Collectors, Co.;Melbourne;Australia
+10236;22;100;2852.08;Shipped;2004;Motor Mint Distributors Inc.;Philadelphia;USA
+10251;44;100;5756.52;Shipped;2004;Tekni Collectables Inc.;Newark;USA
+10263;40;100;4472;Shipped;2004;Gift Depot Inc.;Bridgewater;USA
+10275;22;100;2904.44;Shipped;2004;La Rochelle Gifts;Nantes;France
+10285;47;100;6484.59;Shipped;2004;Marta's Replicas Co.;Cambridge;USA
+10298;39;96.34;3757.26;Shipped;2004;Atelier graphique;Nantes;France
+10308;34;100;4043.96;Shipped;2004;Mini Classics;White Plains;USA
+10318;45;100;5566.5;Shipped;2004;Diecast Classics Inc.;Allentown;USA
+10329;20;100;3176;Shipped;2004;Land of Toys Inc.;NYC;USA
+10339;40;68.92;2756.8;Shipped;2004;Tokyo Collectables, Ltd;Minato-ku;Japan
+10361;26;51.15;1329.9;Shipped;2004;Souveniers And Things Co.;Chatswood;Australia
+10374;39;100;5288.01;Shipped;2005;Australian Gift Network, Co;South Brisbane;Australia
+10388;50;44.51;2225.5;Shipped;2005;FunGiftIdeas.com;New Bedford;USA
+10402;45;100;5833.8;Shipped;2005;Auto Canal Petit;Paris;France
+10417;45;100;5887.35;Disputed;2005;Euro Shopping Channel;Madrid;Spain
+10107;27;100;6065.55;Shipped;2003;Land of Toys Inc.;NYC;USA
+10120;46;100;9264.86;Shipped;2003;Australian Collectors, Co.;Melbourne;Australia
+10134;31;100;7023.98;Shipped;2003;Lyon Souveniers;Paris;France
+10145;33;100;5176.38;Shipped;2003;Toys4GrownUps.com;Pasadena;USA
+10159;22;100;4132.7;Shipped;2003;Corporate Gift Ideas Co.;San Francisco;USA
+10168;20;100;4183;Shipped;2003;Technics Stores Inc.;Burlingame;USA
+10180;41;100;8892.9;Shipped;2003;Daedalus Designs Imports;Lille;France
+10188;45;100;8714.7;Shipped;2003;Herkku Gifts;Bergen;Norway
+10201;49;100;8065.89;Shipped;2003;Mini Wheels Co.;San Francisco;USA
+10210;34;100;6123.4;Shipped;2004;Osaka Souveniers Co.;Osaka;Japan
+10223;49;100;9774.03;Shipped;2004;Australian Collectors, Co.;Melbourne;Australia
+10237;39;100;7023.9;Shipped;2004;Vitachrome Inc.;NYC;USA
+10251;43;100;7078.23;Shipped;2004;Tekni Collectables Inc.;Newark;USA
+10263;41;100;8336.94;Shipped;2004;Gift Depot Inc.;Bridgewater;USA
+10275;36;100;6901.92;Shipped;2004;La Rochelle Gifts;Nantes;France
+10285;27;100;5438.07;Shipped;2004;Marta's Replicas Co.;Cambridge;USA
+10299;29;100;6683.34;Shipped;2004;Toys of Finland, Co.;Helsinki;Finland
+10308;20;100;4570.4;Shipped;2004;Mini Classics;White Plains;USA
+10318;37;100;7667.14;Shipped;2004;Diecast Classics Inc.;Allentown;USA
+10329;26;100;5868.2;Shipped;2004;Land of Toys Inc.;NYC;USA
+10339;39;76.67;2990.13;Shipped;2004;Tokyo Collectables, Ltd;Minato-ku;Japan
+10362;22;100;3664.1;Shipped;2005;Technics Stores Inc.;Burlingame;USA
+10374;22;100;3834.38;Shipped;2005;Australian Gift Network, Co;South Brisbane;Australia
+10388;21;86.77;1822.17;Shipped;2005;FunGiftIdeas.com;New Bedford;USA
+10403;66;100;11886.6;Shipped;2005;UK Collectables, Ltd.;Liverpool;UK
+10417;56;100;9218.16;Disputed;2005;Euro Shopping Channel;Madrid;Spain
+10105;50;100;7208;Shipped;2003;Danish Wholesale Imports;Kobenhavn;Denmark
+10119;46;100;5004.8;Shipped;2003;Salzburg Collectables;Salzburg;Austria
+10129;33;100;4398.24;Shipped;2003;Stylish Desk Decors, Co.;London;UK
+10143;49;100;5597.76;Shipped;2003;Mini Creations Ltd.;New Bedford;USA
+10155;32;100;4526.08;Shipped;2003;Toys of Finland, Co.;Helsinki;Finland
+10167;44;100;5924.16;Cancelled;2003;Scandinavian Gift Ideas;Boras;Sweden
+10178;24;100;3492.48;Shipped;2003;Alpha Cognac;Toulouse;France
+10186;26;100;3854.24;Shipped;2003;Double Decker Gift Stores, Ltd;London;UK
+10197;45;100;5324.4;Shipped;2003;Enaco Distributors;Barcelona;Spain
+10209;39;100;5197.92;Shipped;2004;Men 'R' US Retailers, Ltd.;Los Angeles;USA
+10222;49;100;5997.6;Shipped;2004;Collectable Mini Designs Co.;San Diego;USA
+10248;20;100;2910.4;Cancelled;2004;Land of Toys Inc.;NYC;USA
+10261;27;100;3378.24;Shipped;2004;Quebec Home Shopping Network;Montreal;Canada
+10273;30;100;3508.8;Shipped;2004;Petit Auto;Bruxelles;Belgium
+10283;25;100;2992;Shipped;2004;Royal Canadian Collectables, Ltd.;Tsawassen;Canada
+10295;24;100;3427.2;Shipped;2004;Gifts4AllAges.com;Boston;USA
+10307;22;100;2692.8;Shipped;2004;Classic Gift Ideas, Inc;Philadelphia;USA
+10316;33;100;4128.96;Shipped;2004;giftsbymail.co.uk;Cowes;UK
+10325;47;64.93;3051.71;Shipped;2004;Baane Mini Imports;Stavern;Norway
+10337;25;48.05;1201.25;Shipped;2004;Classic Legends Inc.;NYC;USA
+10350;26;75.47;1962.22;Shipped;2004;Euro Shopping Channel;Madrid;Spain
+10359;48;54.68;2624.64;Shipped;2004;Reims Collectables;Reims;France
+10373;39;100;4046.25;Shipped;2005;Oulu Toy Supplies, Inc.;Oulu;Finland
+10384;34;100;4846.7;Shipped;2005;Corporate Gift Ideas Co.;San Francisco;USA
+10395;32;100;3370.56;Shipped;2005;Lyon Souveniers;Paris;France
+10400;64;100;9661.44;Shipped;2005;The Sharp Gifts Warehouse;San Jose;USA
+10414;19;100;2764.88;On Hold;2005;Gifts4AllAges.com;Boston;USA
+10103;42;100;5398.26;Shipped;2003;Baane Mini Imports;Stavern;Norway
+10114;31;100;4305.28;Shipped;2003;La Corne D'abondance, Co.;Paris;France
+10126;22;100;3347.74;Shipped;2003;Corrida Auto Replicas, Ltd;Madrid;Spain
+10140;26;100;3188.12;Shipped;2003;Technics Stores Inc.;Burlingame;USA
+10150;20;100;3191.2;Shipped;2003;Dragon Souveniers, Ltd.;Singapore;Singapore
+10164;21;100;3536.82;Resolved;2003;Mini Auto Werke;Graz;Austria
+10175;33;100;5362.83;Shipped;2003;Stylish Desk Decors, Co.;London;UK
+10183;28;100;3433.36;Shipped;2003;Classic Gift Ideas, Inc;Philadelphia;USA
+10194;26;100;4263.74;Shipped;2003;Saveley & Henriot, Co.;Lyon;France
+10207;31;100;4076.19;Shipped;2003;Diecast Collectables;Boston;USA
+10217;48;100;7020.48;Shipped;2004;Handji Gifts& Co;Singapore;Singapore
+10229;50;100;6426.5;Shipped;2004;Mini Gifts Distributors Ltd.;San Rafael;USA
+10245;28;100;4591.72;Shipped;2004;Super Scale Inc.;New Haven;USA
+10259;26;100;4033.38;Shipped;2004;Handji Gifts& Co;Singapore;Singapore
+10270;32;100;4302.08;Shipped;2004;Souveniers And Things Co.;Chatswood;Australia
+10281;44;100;7020.64;Shipped;2004;Diecast Classics Inc.;Allentown;USA
+10291;30;100;3855.9;Shipped;2004;Scandinavian Gift Ideas;Boras;Sweden
+10305;38;100;6680.78;Shipped;2004;Marta's Replicas Co.;Cambridge;USA
+10313;40;100;6678;Shipped;2004;Canadian Gift Exchange Network;Vancouver;Canada
+10322;46;61.99;2851.54;Shipped;2004;Online Diecast Creations Co.;Nashua;USA
+10334;26;100;3188.12;On Hold;2004;Volvo Model Replicas, Co;Lule;Sweden
+10347;27;100;4428;Shipped;2004;Australian Collectors, Co.;Melbourne;Australia
+10357;43;100;5780.92;Shipped;2004;Mini Gifts Distributors Ltd.;San Rafael;USA
+10370;35;65.63;2297.05;Shipped;2005;Anna's Decorations, Ltd;North Sydney;Australia
+10381;37;100;6231.54;Shipped;2005;Corporate Gift Ideas Co.;San Francisco;USA
+10391;37;46.9;1735.3;Shipped;2005;Anna's Decorations, Ltd;North Sydney;Australia
